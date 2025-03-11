@@ -54,7 +54,7 @@
   </a>
 </div>
 
-  [!(https://github-readme-stats.vercel.app/api?username=SADMAN-SADID-052&show_icons=true)](https://github.com/SADMAN-SADID-052/github-readme-stats&show_icons=true)
+  [(https://github-readme-stats.vercel.app/api?username=SADMAN-SADID-052&show_icons=true)](https://github.com/SADMAN-SADID-052/github-readme-stats&show_icons=true)
 
 ###
 
