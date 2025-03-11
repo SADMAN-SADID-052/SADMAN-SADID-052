@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hey I am Sadman Sadid !!👋</h1>
+<h1 align="center">Hey I am Sadman Sadid !!👋</h1>
 
 ###
 
@@ -54,8 +54,10 @@
   </a>
 </div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SADMAN-SADID-052&show_icons=true)](https://github.com/SADMAN-SADID-052/github-readme-stats&show_icons=true)
+
 ###
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SADMAN-SADID-052&show_icons=true)](https://github.com/SADMAN-SADID-052/github-readme-stats&show_icons=true)
+
 
 
