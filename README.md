@@ -40,6 +40,6 @@
 
 <div align="center">
   <a href="https://github.com/SADMAN-SADID-052/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN-SADID-052" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SADMAN-SADID-052&layout=compact" />
   </a>
 </div>
